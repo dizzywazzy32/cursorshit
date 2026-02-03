@@ -61,7 +61,7 @@
         "--cpd-color-bg-action-secondary-hovered": "#001523",
         "--cpd-color-bg-critical-primary": "#FF4800",
         "--cpd-color-bg-critical-subtle": "#3D1A00",
-        "--cpd-color-bg-success-subtle": "#002D1A",
+        "--cpd-color-bg--subtle": "#002D1A",
         "--cpd-color-bg-info-primary": "#2F78A5",
         "--cpd-color-bg-info-subtle": "#002859",
 
@@ -70,7 +70,7 @@
         "--cpd-color-text-on-solid-primary": "#001523",
         "--cpd-color-text-action-accent": "#FF4800",
         "--cpd-color-text-critical-primary": "#FF6B3D",
-        "--cpd-color-text-success-primary": "#4CAF50",
+        "--cpd-color-text-success-primary": "#00C896",
         "--cpd-color-text-link-external": "#2F78A5",
         "--cpd-color-text-decorative-1": "#87B5D8",
         "--cpd-color-text-decorative-2": "#6F9CC3",
@@ -86,12 +86,12 @@
         "--cpd-color-icon-accent-primary": "#FF4800",
         "--cpd-color-icon-accent-tertiary": "#FF4800",
         "--cpd-color-icon-critical-primary": "#FF4800",
-        "--cpd-color-icon-success-primary": "#4CAF50",
+        "--cpd-color-icon-success-primary": "#00C896",
 
         "--cpd-color-border-interactive-primary": "#FF4800",
         "--cpd-color-border-interactive-hovered": "#E64100",
         "--cpd-color-border-critical-primary": "#FF4800",
-        "--cpd-color-border-success-primary": "#4CAF50",
+        "--cpd-color-border-success-primary": "#00C896",
         "--cpd-color-border-info-primary": "#2F78A5",
         "--cpd-color-border-disabled": "#01396B",
 
