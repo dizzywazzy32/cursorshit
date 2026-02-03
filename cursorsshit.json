@@ -67,7 +67,7 @@
 
         "--cpd-color-text-primary": "#EDF6FF",
         "--cpd-color-text-secondary": "#A9CBE0",
-        "--cpd-color-text-on-solid-primary": "#FFFFFF",
+        "--cpd-color-text-on-solid-primary": "#001523",
         "--cpd-color-text-action-accent": "#FF4800",
         "--cpd-color-text-critical-primary": "#FF6B3D",
         "--cpd-color-text-success-primary": "#4CAF50",
