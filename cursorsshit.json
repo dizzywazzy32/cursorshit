@@ -14,8 +14,8 @@
     "warning-color": "#FF4800",
     "alert": "#FF4800",
 
-    "sidebar--background-color": "#001523",
-    "sidebar--text-color": "#EAF3FA",
+    "sidebar-background-color": "#001523",
+    "sidebar-text-color": "#EAF3FA",
     "roomlist-background-color": "#041F33",
     "roomlist-text-color": "#EAF3FA",
     "roomlist-text-secondary-color": "#A9CBE0",
